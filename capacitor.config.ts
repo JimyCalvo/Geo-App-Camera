@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'photo-gps',
+  appId: 'com.example.app',
+  appName: 'App-Camera-GPS',
   webDir: 'www',
   server: {
     androidScheme: 'https'

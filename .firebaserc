@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ionic-camera-gps": {
+      "hosting": {
+        "app": [
+          "ionic-camera-gps"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ionic-camera-gps"
+  }
+}

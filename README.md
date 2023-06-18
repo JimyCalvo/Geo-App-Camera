@@ -7,7 +7,11 @@
 
 Aplicion  que enplea los servicios de firebase con ionic 7.1.1 y angular 14+  quepermite a tomar una foto y guardar la foto en conjunto con la geolocalización. 
 #### Descargar
+
+[![Descargar](https://github.com/JimyCalvo/Geo-App-Camera/blob/master/Imagenes/apk-download.png?raw=true "Descargar")](https://github.com/JimyCalvo/Geo-App-Camera/blob/master/app-debug.apk "Descargar")
 [Apk -aplicación](blob:https://github.com/ed2425f8-9b81-402b-b6d2-f038ce206aef "Apk -aplicación")
+
+
 
 ### Imagenes
 
@@ -43,7 +47,22 @@ Aplicion  que enplea los servicios de firebase con ionic 7.1.1 y angular 14+  qu
 ##### Datos de geolocalización 
 ![](https://raw.githubusercontent.com/JimyCalvo/Geo-App-Camera/master/Imagenes/Aplicion-foto-6.png)
 
+
 ![](https://raw.githubusercontent.com/JimyCalvo/Geo-App-Camera/master/Imagenes/Aplicion-foto-8.png)
 
+#### Comandos Terminal Empleados
 
+    
+    npm install @awesome-cordova-plugins/core --legacy-peer-deps
+    npm install firebase @angular/fire --save
+    npm install -g firebase-tools
+    ng add @angular/fire
+    
+    # For image upload with camera and gps
+    npm i @capacitor/camera
+    npm install @capacitor/geolocation
+    npm i @ionic/pwa-elements
+    ng add @angular/fire
+    
+    ng add @angular/fire
 
